@@ -1,2 +1,2 @@
 # mezuniyet
-Burada amaç iklim değeişikliğinin nedeni, etkileri vb. konuları öğenmektir!
+Burada amaç iklim değeişikliğinin nedeni, etkileri vb. konuları öğrenmektir!
